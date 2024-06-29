@@ -1,0 +1,2 @@
+# Detecting-hate-speech-in-Arabic-on-Twitter-using-natural-language-processing-NLP-tools
+A GUI-based system interacts with the user by allowing them to upload training and testing datasets from their computer. It then provides an analysis of the data along with accuracy metrics. The system displays 10 samples from the uploaded tweets, identifies the label for each, and can also classify the type of a tweet entered by the user.
